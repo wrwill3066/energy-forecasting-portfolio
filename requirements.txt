@@ -1,0 +1,11 @@
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+pyarrow>=14
+openpyxl>=3.1
+scikit-learn>=1.4
+pyfixest>=0.30
+xarray>=2024.1
+zarr>=2.16
+gcsfs>=2024.2
+netCDF4>=1.6
